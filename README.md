@@ -67,5 +67,7 @@ Executives to get a quick overview of monthly performance
 
 Data Analysts for exploring customer behavior and sales trends
 
+Screenshot of my Project:https://github.com/anu13771/Mobile-Sales-Dahboard/blob/main/Snapshot%20of%20Mobile%20Sales%20Dashboard.jpg
+
 📝 Final Notes
 All the data used is simulated for demo purposes. The project is intended to showcase dashboard design, interactivity, and business analysis capabilities using Power BI.
